@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#container{
+    margin-left: 100px;
+    display: flex;
+    background-color: brown;
+}
+#content1{
+    margin-left: 130px;
+}
+#image1{
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#name{
+    height: 50px;
+    width: 550px;
+    background-color: brown;
+    -webkit-text-fill-color: white;
+    border: 2px solid white;
+}
+#email{
+    height: 50px;
+    width: 550px;
+      background-color: brown;
+    -webkit-text-fill-color: white;
+    border: 2px solid white;
+}
+#Organisation{
+    height: 50px;
+    width: 550px;
+      background-color: brown;
+    -webkit-text-fill-color: white;
+    border: 2px solid white;
+}
+#box5{
+    height: 50px;
+    width: 550px;
+    background-color: brown;
+    -webkit-text-fill-color: white;
+    border: 2px solid white;
+}
+#box7{
+     height: 50px;
+    width: 550px;
+    background-color: brown;
+    -webkit-text-fill-color: white;
+    border: 2px solid white;
+}
+#box9{
+     height: 50px;
+    width: 550px;
+    background-color: brown;
+    -webkit-text-fill-color: white;
+    border: 2px solid white;
+}
+#box11{
+     height: 50px;
+    width: 550px;
+    background-color: brown;
+    -webkit-text-fill-color: white;
+    border: 2px solid white;
+}
+#box13{
+    height: 50px;
+    width: 550px;
+    background-color: brown;
+    -webkit-text-fill-color: white;
+    border: 2px solid white;
+}
+#box14{
+    height: 50px;
+    width: 450px;
+    background-color:white;
+    -webkit-text-fill-color:black;
+    border: 2px solid white;
+    font-size: 30px;
+}
+#triangle{
+    height: 0px;
+    width: 0px;
+    background-color: yellow;
+    border-bottom: 30px solid white;
+    border-left: 30px solid brown;
+    border-right: 30px solid white;
+    border-top: 30px solid brown;
+    margin-left: 1283px;
+    margin-top: -60px;
+}
